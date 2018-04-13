@@ -27,17 +27,18 @@ brew cask install whatsapp
 brew cask install spotify
 brew cask install spotify-notifications
 brew cask install google-chrome
-brew cask install sublime-text
-brew cask install atom
 brew cask install istat-menus
 brew cask install 1password
+brew cask install cyberduck
 
 # Réseau & Dev
+brew cask install sublime-text
+brew cask install atom
 brew install git
 brew install vim
 brew install visual-studio-code
-brew cask install wireshark-chmodbpf
-brew cask install royal-tsx
+brew cask install wireshark
+#brew cask install royal-tsx
 
 # cleanup
 brew cleanup --force
