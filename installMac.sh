@@ -31,6 +31,7 @@ brew cask install istat-menus
 brew cask install 1password
 brew cask install cyberduck
 brew cask install discord
+brew cask install nextcloud
 
 # Réseau & Dev
 echo Installation des application Réseau & Dév
