@@ -16,7 +16,7 @@ brew install whois
 brew tap caskroom/cask
 
 # Application globale
-echo Install Core Apps
+echo Installation des applications principales
 # brew cask install alfred
 brew cask install dropbox
 brew cask install little-snitch
@@ -33,6 +33,7 @@ brew cask install cyberduck
 brew install discord
 
 # Réseau & Dev
+echo Installation des application Réseau & Dév
 brew cask install sublime-text
 brew cask install atom
 brew install git
@@ -45,3 +46,4 @@ brew cask install wireshark
 brew cleanup --force
 brew cask cleanup --force
 rm -f -r /Library/Caches/Homebrew/*
+echo Installation terminée
