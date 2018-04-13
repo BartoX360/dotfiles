@@ -30,7 +30,7 @@ brew cask install google-chrome
 brew cask install istat-menus
 brew cask install 1password
 brew cask install cyberduck
-brew install discord
+brew cask install discord
 
 # Réseau & Dev
 echo Installation des application Réseau & Dév
