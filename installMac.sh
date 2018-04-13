@@ -40,7 +40,7 @@ brew install git
 brew install vim
 brew install visual-studio-code
 brew cask install wireshark
-#brew cask install royal-tsx
+brew cask install royal-tsx
 
 # cleanup
 brew cleanup --force
