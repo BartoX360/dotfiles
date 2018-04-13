@@ -32,6 +32,7 @@ brew cask install 1password
 brew cask install cyberduck
 brew cask install discord
 brew cask install nextcloud
+brew cask install the-unarchiver
 
 # Réseau & Dev
 echo Installation des application Réseau & Dév
