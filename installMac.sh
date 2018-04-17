@@ -16,13 +16,10 @@ brew install whois
 brew tap caskroom/cask
 
 # Application globale
-echo Installation des applications principales
-# brew cask install alfred
+echo "Installation des applications principales"
 brew cask install dropbox
-brew cask install little-snitch
 brew cask install vlc
 brew cask install iterm2
-brew cask install daisydisk
 brew cask install whatsapp
 brew cask install spotify
 brew cask install spotify-notifications
@@ -35,12 +32,11 @@ brew cask install nextcloud
 brew cask install the-unarchiver
 
 # Réseau & Dev
-echo Installation des application Réseau & Dév
+echo "Installation des application Réseau & Dév"
 brew cask install sublime-text
 brew cask install atom
 brew install git
 brew install vim
-brew install visual-studio-code
 brew cask install wireshark
 brew cask install royal-tsx
 
